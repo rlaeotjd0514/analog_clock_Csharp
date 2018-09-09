@@ -1,0 +1,9 @@
+C:\Users\31337\Desktop\방학숙제_시계\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\analog_clock.exe.config
+C:\Users\31337\Desktop\방학숙제_시계\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\analog_clock.exe
+C:\Users\31337\Desktop\방학숙제_시계\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\analog_clock.pdb
+C:\Users\31337\Desktop\방학숙제_시계\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\analog_clock.Form1.resources
+C:\Users\31337\Desktop\방학숙제_시계\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\analog_clock.Properties.Resources.resources
+C:\Users\31337\Desktop\방학숙제_시계\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\analog_clock.csproj.GenerateResource.cache
+C:\Users\31337\Desktop\방학숙제_시계\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\analog_clock.csproj.CoreCompileInputs.cache
+C:\Users\31337\Desktop\방학숙제_시계\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\analog_clock.exe
+C:\Users\31337\Desktop\방학숙제_시계\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\analog_clock.pdb
